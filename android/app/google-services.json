@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073980032643",
+    "project_id": "musicoo-41b7f",
+    "storage_bucket": "musicoo-41b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073980032643:android:de44404ec872056b91bdb6",
+        "android_client_info": {
+          "package_name": "com.example.musicoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073980032643-vig5sbteafcu2jp6crru2fij3a135ccr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicoo",
+            "certificate_hash": "d2a1e2490dbfb01483d727190fdfca526bcd9031"
+          }
+        },
+        {
+          "client_id": "1073980032643-rtikqd4q1oq1f9pje2ce2dkqegk98gie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB14y7AniGerIRBcUSkUAh-KYpu3UVzb1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073980032643-rtikqd4q1oq1f9pje2ce2dkqegk98gie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
