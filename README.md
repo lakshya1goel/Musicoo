@@ -18,7 +18,7 @@ Musicoo is a music streaming application that allows users to stream their favor
 
 ## Video
 
-Click <a href="https://youtu.be/a1CvhF3DLHY">Here</a> to View the go through video.
+Click <a href="https://drive.google.com/file/d/1GQuv5dmYpqvWqeWgMAcm2euFuohduUJA/view?usp=sharing">Here</a> to View the go through video.
 
 ## Screenshots
 
